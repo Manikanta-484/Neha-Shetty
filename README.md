@@ -23,10 +23,6 @@ Here is a video demonstrating how the webpage looks by scrolling down:
 
 https://github.com/Manikanta-484/Neha-Shetty/assets/149045195/b45af00f-a521-4da3-9614-ef308b4e3961
 
-
-
-*(Replace `path-to-your-video.mp4` with the actual path to your video file)*
-
 ## Features
 
 - **Header:** Contains the fan page title and a navigation bar.
