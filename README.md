@@ -15,7 +15,7 @@ This project is a fan page dedicated to the Indian actress Neha Shetty. It is cr
 
 Here is a video demonstrating how the webpage looks by scrolling down:
 
-![Video Demonstration](video.mp4)
+![Video Demonstration](video2.mp4)
 
 *(Replace `path-to-your-video.mp4` with the actual path to your video file)*
 
