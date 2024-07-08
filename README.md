@@ -10,6 +10,11 @@ This project is a fan page dedicated to the Indian actress Neha Shetty. It is cr
 - [Setup](#setup)
 - [Usage](#usage)
 
+## Screenshots
+
+![Neha-Shetty-Fan-Page-ScreenShot](Neha.png)
+
+
 
 ## Video
 
